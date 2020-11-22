@@ -11,7 +11,7 @@ And yet, I think it'd be funny and a better experience overall, if there were si
 
 Github isn't exactly the place to state opinions, but I personally love Libgen and it's mission of spreading knowledge, of works, and art, and science... 
 
-# Examples
+## Examples
 <hr>
 Some images from the folder: 
 <img src="https://github.com/dev-segal/RandomDesigns/blob/master/apps/libgen/designs.png" />
