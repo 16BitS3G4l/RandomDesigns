@@ -7,6 +7,6 @@ I started from a few colors from colorhunt.co, which was super useful. I initial
 
 After getting some colors I approved of, I continued on with the fonts. I think the mixture of the Banger as well as Montserrat make for a good combination that attempts to invoke a childish and silly feeling. 
 
-# Example
+## Example
 <hr>
 <img src="https://github.com/dev-segal/RandomDesigns/blob/master/apps/comictube/Android%20Mobile%20%E2%80%93%201.png" />
